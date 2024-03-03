@@ -1,4 +1,5 @@
 *.sass
 *.css.map
 *.pug
+base.html
 
